@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Mes": "Enero",
+      "Ventas del mes": 45,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Febrero",
+      "Ventas del mes": 22,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Marzo",
+      "Ventas del mes": 95,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Abril",
+      "Ventas del mes": 52,
+      "Agencia correspondiente": "Agencia 1"
+    }
+  ],
+  [
+    {
+      "Mes": "Mayo",
+      "Ventas del mes": 156,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Junio",
+      "Ventas del mes": 6,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Julio",
+      "Ventas del mes": 5,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Agosto",
+      "Ventas del mes": 8,
+      "Agencia correspondiente": "Agencia 1"
+    }
+  ],
+  [
+    {
+      "Mes": "Septiembre",
+      "Ventas del mes": 9,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Octubre",
+      "Ventas del mes": 2,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Noviembre",
+      "Ventas del mes": 7,
+      "Agencia correspondiente": "Agencia 1"
+    },
+    {
+      "Mes": "Diciembre",
+      "Ventas del mes": 10,
+      "Agencia correspondiente": "Agencia 1"
+    }
+  ]
+]
